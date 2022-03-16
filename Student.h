@@ -9,6 +9,6 @@ class Student {
   //    assignDetails() method declaration
   //    display() method declaration
   public :
-    void assignDetails (int sid , char pname);
+    void assignDetails (int sid , char pname[]);
     void display ();
 };
